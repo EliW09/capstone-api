@@ -2,6 +2,8 @@ Frontend repo: https://github.com/EliW09/capstone-client
 Deployed frontend: https://EliW09.github.io/capstone-client
 Deployed backend: <link>
 
+The api for my frontend game to save game choices and get the storyline
+
 Languages used: Ruby on Rails
 
 I would want to change my backend to mongodb due to mongo allowing anything to be saved into it easier vs rails
