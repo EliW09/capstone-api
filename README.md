@@ -1,6 +1,6 @@
 Frontend repo: https://github.com/EliW09/capstone-client
 Deployed frontend: https://EliW09.github.io/capstone-client
-Deployed backend: <link>
+Deployed backend: https://powerful-mountain-74350.herokuapp.com/
 
 The api for my frontend game to save game choices and get the storyline
 
