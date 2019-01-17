@@ -10,7 +10,7 @@ I would want to change my backend to mongodb due to mongo allowing anything to b
 
 For my project I planned to complete my backend first than get my frontend working after I know I can reach my routes. Once I had all my routes I made sure only logged in users can interact with the api and can only view their own data.
 
-ERD: <link>
+ERD: https://tinyurl.com/ydx8gcuz
 
 Routes: 
     post => /sign-up
