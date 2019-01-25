@@ -6,7 +6,7 @@ The api for my frontend game to save game choices and get the storyline
 
 Languages used: Ruby, frameworks: Ruby on Rails
 
-Stretch goals: I would want to change my backend to mongodb due to mongo allowing anything to be saved into it easier vs rails
+Stretch goals: I would want to change my backend to mongodb due to mongo allowing anything to be saved into it easier vs rails. I also want to build my backend like a tree for more functionality.
 
 For my project I planned to complete my backend first than get my frontend working after I know I can reach my routes. Once I had all my routes I made sure only logged in users can interact with the api and can only view their own data.
 
